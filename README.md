@@ -1,4 +1,4 @@
-#Tools to Style for front-end
+# Tools to Style for front-end
 
 **Tools to Style** é um conjunto de estilos css para acelerar o desenvolvimento front-end de sites. 
 Ele foi feito utilizando o pré-procesador Sass que permite ter automatizar e modificar os estilos de acordo com a necessidade do projeto.
