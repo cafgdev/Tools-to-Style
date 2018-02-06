@@ -24,9 +24,13 @@ $gray: #999;
 ```
 
 ## Começando a usar o Tools for Style
-Para começar a usar é necessário primeiramente importar o settings.sass no seu arquivo de estilo principal, que aqui para iremos chamar de main.sass.
+Para começar a usar é necessário primeiramente importar o _settings.sass no seu arquivo de estilo principal, que aqui para iremos chamar de main.sass.
 
 *Note: O arquivo settings.sass contém a configuração do seu estilo(typografia, paleta de cores, alinhamentos entre outras configurações)*
+
+``` Sass
+  @import settings/settings
+```
 
 ## Alinhamento de Textos
 ```scss
