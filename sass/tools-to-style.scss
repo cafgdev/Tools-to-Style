@@ -1,0 +1,40 @@
+// Tools to Style  - Main File
+
+@import 'settings/settings';
+
+@import "typography/typograpy";
+@import "breakpoint/breakpoint";
+
+h1{
+  @include font-size(28px);
+  @include font-color(red);
+  @include to-screen(small){
+    &:before {
+      content: "Phone";
+    }
+  }
+
+  @include to-screen(medium){
+    &:before{
+      content: "Tablet";
+    }
+  }
+
+
+  @include to-screen(large){
+    &:before{
+      content: "Desktop";
+    }
+  }
+
+  @include to-screen(extra-large){
+    &:before{
+      content: "Monitores Grandes";
+    }
+  }
+}
+  
+
+p{
+  @include font-size($font-size-default);
+}

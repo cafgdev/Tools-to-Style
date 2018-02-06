@@ -1,0 +1,23 @@
+
+@import "../settings/settings";
+
+@mixin to-screen($screen-name){
+	@if map_has_key($breakpoints, $screen-name){
+  		@if($screen-name == "small"){
+  			@media screen and (max-width: #{map_get($breakpoints, $screen-name)}){
+  				@content;
+  			}
+  		}
+    	@else
+    	{
+    		@media screen and (min-width: #{map_get($breakpoints, $screen-name)}){
+        		@content;
+       	 	}
+    	}
+    }
+  	@else{
+  		@warn ("Unfortunately, no value could be retrieved from `#{$screen-name}`. " + "Please make sure it is defined in `$breakpoints` map.");
+  	}
+    
+}
+

@@ -1,10 +1,38 @@
-/* line 7, /Users/cafg/IdeaProjects/tools-to-style/sass/tools-to-style.sass */
+/* line 8, /Users/cafg/IdeaProjects/tools-to-style/sass/tools-to-style.scss */
 h1 {
   font-size: 28px;
   color: red;
 }
 
-/* line 11, /Users/cafg/IdeaProjects/tools-to-style/sass/tools-to-style.sass */
+@media screen and (max-width: 576px) {
+  /* line 12, /Users/cafg/IdeaProjects/tools-to-style/sass/tools-to-style.scss */
+  h1:before {
+    content: "Phone";
+  }
+}
+
+@media screen and (min-width: 768px) {
+  /* line 18, /Users/cafg/IdeaProjects/tools-to-style/sass/tools-to-style.scss */
+  h1:before {
+    content: "Tablet";
+  }
+}
+
+@media screen and (min-width: 992px) {
+  /* line 25, /Users/cafg/IdeaProjects/tools-to-style/sass/tools-to-style.scss */
+  h1:before {
+    content: "Desktop";
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  /* line 31, /Users/cafg/IdeaProjects/tools-to-style/sass/tools-to-style.scss */
+  h1:before {
+    content: "Monitores Grandes";
+  }
+}
+
+/* line 38, /Users/cafg/IdeaProjects/tools-to-style/sass/tools-to-style.scss */
 p {
   font-size: 16px;
 }

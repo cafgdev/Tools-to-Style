@@ -1,0 +1,16 @@
+// Settings Theme Default
+
+
+//Typography
+$font-size-default: 16px;
+$font-color-defaul: #000;
+$font-family-default: 'sans-serif';
+$line-height-default: 1em;
+$letter-spacing-default: 1em;
+$font-weight-default: normal;
+$text-transform-default: none;
+$font-style-default: normal;
+$font-variant-default: normal;
+
+//$breakpoints: (phone : 400px, phone-wide : 480px, phablet : 560px, tablet-small : 640px, tablet : 768px, tablet-wide : 1024px, desktop : 1248px, desktop-wide : 1440px)
+$breakpoints: (small : 576px, medium: 768px, large: 992px, extra-large: 1200px);
