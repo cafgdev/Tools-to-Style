@@ -1,0 +1,16 @@
+{
+	"version": 3,
+	"file": "../sass/tools-to-style.css",
+	"sources": [
+		"../sass/tools-to-style.sass",
+		"../sass/settings/_settings.sass",
+		"../sass/typography/_typograpy.sass"
+	],
+	"sourcesContent": [
+		"// Tools to Style  - Main File\n\n@import 'settings/settings';\n\n@import \"typography/typograpy\";\n\nh1 {\n  @include font-size(28px);\n  @include font-color(red); }\n\np {\n  @include font-size($font-size-default); }\n",
+		"// Settings Theme Default\n\n\n//Typography\n$font-size-default: 16px;\n$font-color-defaul: #000;\n$font-family-default: 'sans-serif';\n$line-height-default: 1em;\n$letter-spacing-default: 1em;\n$font-weight-default: normal;\n$text-transform-default: none;\n$font-style-default: normal;\n$font-variant-default: normal;\n",
+		"@import \"../settings/settings\";\n\n//Configurando o tamanho da fonte\n@mixin font-size($size) {\n  font-size: $size; }\n\n//Configurando a cor da fonte\n@mixin font-color($color) {\n  color: $color; }\n\n//Configurando a fonte que será usado (o nome da fonte)\n@mixin font-family($font-name) {\n  font-family: $font-name; }\n\n//Configurando o espaçamento entre as linhas\n@mixin line-height($line-height) {\n  line-height: $line-height; }\n\n//Configurando o espaçamento entre as letras\n@mixin letter-spacing($letter-spacing) {\n  letter-spacing: $letter-spacing; }\n\n//Configurando a intensidade da fonte\n@mixin font-weight($font-weight) {\n  font-weight: $font-weight; }\n\n//Transformações para os texto (UpperCase, lowerCase,\n@mixin text-transform($text-transform) {\n  text-transform: $text-transform; }\n\n//Configurando o Estilo do Texto (normal, italic, oblique)\n@mixin font-style($style) {\n  font-style: $style; }\n\n//Configurando as variações da Fonte (normal, small-caps)\n@mixin font-variant($variant) {\n    font-variant: $variant; }\n\n\n\n\n"
+	],
+	"mappings": ";AAMA,AAAA,EAAE,CAAC;EEFD,SAAS,EFGU,IAAI;EECvB,KAAK,EFAe,GAAG;CAAI;;;AAE7B,AAAA,CAAC,CAAC;EENA,SAAS,EDAS,IAAI;CDOmB",
+	"names": []
+}
