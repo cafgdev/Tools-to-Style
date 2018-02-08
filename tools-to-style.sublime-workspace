@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"headin",
+				"headingFourteen"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"card",
+				"card-header"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"noticia",
+				"noticias--home"
+			],
+			[
+				"truck",
+				"truck-5-hover.png\tw:400 h:97"
+			],
+			[
+				"tru",
+				"truck-5.png\tw:400 h:97"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"auto",
+				"autocomplete"
+			],
+			[
+				"empre",
+				"Empresarial"
+			],
+			[
+				"all",
+				"allEventsAction"
+			],
+			[
+				"Tele",
+				"Telegram"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"send",
+				"sendText"
+			],
+			[
+				"mes",
+				"message_content"
+			],
+			[
+				"messa",
+				"message_content"
+			],
+			[
+				"e",
+				"enviarTexto"
+			],
+			[
+				"ur",
+				"url_audio"
+			],
+			[
+				"url",
+				"url_foto"
+			],
+			[
+				"men",
+				"mensagem_conteudo"
+			],
+			[
+				"mens",
+				"mensagem_id"
+			],
+			[
+				"mensa",
+				"mensagem_conteudo"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"makd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"su",
+				"Set Syntax: UX"
+			],
+			[
+				"select the",
+				"UI: Select Theme"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htl",
+				"Set Syntax: HTML"
+			],
+			[
+				"th",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 531.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cafg/IdeaProjects/tools-to-style"
+	],
+	"file_history":
+	[
+		"/Users/cafg/IdeaProjects/tools-to-style/README.md",
+		"/Users/cafg/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/cafg/Desktop/sobre.html",
+		"/Users/cafg/Desktop/sobre.php",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/main 2.js",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/index.php",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/bannerIndex.php",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/banner-site-2 .jpg",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/index 2.php",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/main.js",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/page-nossa-estrutura.php",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/header.php",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/footer.php",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/page-home.php",
+		"/Users/cafg/Desktop/index-backup.php",
+		"/Users/cafg/IdeaProjects/tools-to-style/sass/tools-to-style.scss",
+		"/Users/cafg/IdeaProjects/tools-to-style/index.html",
+		"/Users/cafg/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/Users/cafg/IdeaProjects/tools-to-style/sass/breakpoint/_breakpoint.scss",
+		"/Users/cafg/IdeaProjects/tools-to-style/sass/typography/_typograpy.scss",
+		"/Users/cafg/Desktop/MachadoLog/page-contato.php",
+		"/Users/cafg/Desktop/MachadoLog/assets/scss/style.scss",
+		"/Users/cafg/Desktop/MachadoLog/assets/css/style.css",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/index.html",
+		"/private/var/folders/6j/t2cz9qq9613fxqj53llncw4w0000gn/T/fz3temp-2/post-internas.html",
+		"/Volumes/DADOS/Sistema de Organização/Profissional/ACTMOB/netgera/FrontEnd/assets/css/ebook-style.css",
+		"/Volumes/DADOS/Sistema de Organização/Profissional/ACTMOB/netgera/FrontEnd/baixe-ebook.html",
+		"/Volumes/DADOS/Sistema de Organização/Profissional/ACTMOB/netgera/FrontEnd/post-internas.html",
+		"/Volumes/DADOS/Sistema de Organização/Profissional/ACTMOB/netgera/FrontEnd/assets/css/main.css",
+		"/Volumes/DADOS/Sistema de Organização/Profissional/ACTMOB/netgera/FrontEnd/index.html",
+		"/Users/cafg/Desktop/main.js",
+		"/Users/cafg/Desktop/page.php",
+		"/Users/cafg/Sistema de Organização/Profissional/ACTMOB/Salzgeber/footer.php",
+		"/Users/cafg/Sistema de Organização/Profissional/ACTMOB/Salzgeber/page.php",
+		"/Users/cafg/Sistema de Organização/Profissional/ACTMOB/Salzgeber/assets/js/main.js",
+		"/Users/cafg/Desktop/mysql-init",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/easy_install",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/easy_install-3.6",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/pip",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/pip3",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/pip3.6",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/python-config",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/wheel",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/activate.fish",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/activate",
+		"/Users/cafg/Sistema de Organização/Igreja/ADCW/Grupo de Louvor/Desenvolvimento/Telegram/BotGrupoDeLouvor/bin/activate.csh",
+		"/Users/cafg/Sistema de Organização/Profissional/ACTMOB/WorldSat/WorldSat/page-contato.php",
+		"/Users/cafg/Desktop/index.php",
+		"/Users/cafg/Sistema de Organização/Profissional/ACTMOB/WorldSat/WorldSat/front-page.php",
+		"/Users/cafg/Sistema de Organização/Profissional/ACTMOB/WorldSat/WorldSat/footer.php",
+		"/Users/cafg/Sistema de Organização/Profissional/ACTMOB/WorldSat/header.php",
+		"/Users/cafg/Sistema de Organização/Profissional/ACTMOB/WorldSat/index.php",
+		"/Users/cafg/Sistema de Organização/Profissional/ACTMOB/index.php",
+		"/Volumes/WEB/FTP's/sites.xml",
+		"/Users/cafg/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/cafg/Library/Application Support/Sublime Text 3/Packages/Fuse/UserGuide.txt"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tools-to-style.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/IdeaProjects/tools-to-style/tools-to-style.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
